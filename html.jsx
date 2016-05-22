@@ -16,7 +16,7 @@ module.exports = React.createClass({
     let prod_tracking_js;
     
     if (process.env.NODE_ENV === 'production') {
-      prod_css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./styles/site_base.css') }} />
+      prod_css = <style dangerouslySetInnerHTML={{ __html: require('!raw!sass!./styles/site_base.scss') }} />
       prod_tracking_js = <script dangerouslySetInnerHTML={{ __html: require('!raw!./scripts/tracking.js') }} />
     }
     
@@ -27,7 +27,6 @@ module.exports = React.createClass({
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
           <title>{title}</title>
-          <style dangerouslySetInnerHTML={{ __html: require('!raw!foundation-sites/dist/foundation.min.css')}} />
           {prod_css}
           {prod_tracking_js}
         </head>

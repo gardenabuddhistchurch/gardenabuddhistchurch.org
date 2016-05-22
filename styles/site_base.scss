@@ -1,3 +1,8 @@
+@import 'foundation_settings';
+@import '../node_modules/foundation-sites/scss/foundation';
+
+@include foundation-everything;
+
 /* 
  * prevent FOUC for nav
  * http://foundation.zurb.com/sites/docs/responsive-navigation.html#preventing-fouc

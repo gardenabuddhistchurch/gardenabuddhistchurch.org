@@ -3,7 +3,7 @@ import { Link } from 'react-router';
 import { prefixLink } from 'gatsby-helpers';
 import { config } from 'config'
 
-import 'styles/site_base.css';
+import 'styles/site_base.scss';
 
 module.exports = React.createClass({
   propTypes () {
