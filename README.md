@@ -1,5 +1,4 @@
-# gatsby-starter-documentation
-Starter for building documentation site with GatsbyJS
+# gatsby-starter-base-foundation
+"empty" starter repo for gatsby using zurb foundation
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-documentation-site https://github.com/gatsbyjs/gatsby-starter-documentation`
+see [https://github.com/gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) 
