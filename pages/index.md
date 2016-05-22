@@ -7,4 +7,4 @@ Buddhism readily adapts itself to a new land, blending in some of the native cul
 The Gardena Buddhist Church belongs to the True Pure Land (Jodo Shin Shu) Sect of Buddhism, the Hompa (Nishi) - Hongwanji Division, and is a part of the
 [Buddhist Churches of America](http://buddhistchurchesofamerica.org/)
 
-also, see our [facebook page](https://www.facebook.com/gardenabuddhistchurch)
+see our [facebook page](https://www.facebook.com/gardenabuddhistchurch)
