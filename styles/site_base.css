@@ -1,3 +1,39 @@
+/* 
+ * prevent FOUC for nav
+ * http://foundation.zurb.com/sites/docs/responsive-navigation.html#preventing-fouc
+ */
+.no-js .top-bar {
+  display: none;
+}
+@media screen and (min-width: 40em) {
+  .no-js .top-bar {
+    display: block;
+  }
 
-/* add site-wide CSS here */
+  .no-js .title-bar {
+    display: none;
+  }
+}
+.nav .title-bar {
+  background-color: #3e9eed;
+  color: #ffffff;
+}
+.nav .top-bar, .nav .top-bar ul {
+  background-color: #3e9eed;
+  color: #ffffff;
+}
+.nav a:focus, .nav a:hover {
+  color: #b0f1ff;
+}
+.nav a {
+  color: #ffffff;
+}
+.dropdown.menu > li.is-dropdown-submenu-parent > a::after {
+  border-color: #ffffff transparent transparent;
+}
 
+.hero {
+  background: url("/images/gardena-buddhist-church-skew-cropped.jpg") no-repeat center center;
+  background-size: cover;
+  height: 60vh;
+}

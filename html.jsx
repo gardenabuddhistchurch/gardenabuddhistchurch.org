@@ -18,13 +18,13 @@ module.exports = React.createClass({
     }
     
     return (
-      <html lang="{lang}">
+      <html lang="{lang}" className="no-js">
         <head>
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
           <title>{title}</title>
-          <script dangerouslySetInnerHTML={{ __html: require('!raw!foundation-sites/dist/foundation.min.css')}} />
+          <style dangerouslySetInnerHTML={{ __html: require('!raw!foundation-sites/dist/foundation.min.css')}} />
           {prod_css}
         </head>
         <body>
@@ -32,6 +32,9 @@ module.exports = React.createClass({
           <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
           <script dangerouslySetInnerHTML={{ __html: require('!raw!jquery/dist/jquery.min.js') }} />
           <script dangerouslySetInnerHTML={{ __html: require('!raw!foundation-sites/dist/foundation.min.js') }} />
+          <script>
+            $(document).foundation();
+          </script>
         </body>
       </html>
     );
