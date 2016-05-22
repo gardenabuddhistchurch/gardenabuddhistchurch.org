@@ -13,8 +13,11 @@ module.exports = React.createClass({
     const lang = this.props.lang || 'en-us';
     const title = this.props.title || DocumentTitle.rewind();
     let prod_css;
+    let prod_tracking_js;
+    
     if (process.env.NODE_ENV === 'production') {
       prod_css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./styles/site_base.css') }} />
+      prod_tracking_js = <script dangerouslySetInnerHTML={{ __html: require('!raw!./scripts/tracking.js') }} />
     }
     
     return (
@@ -26,6 +29,7 @@ module.exports = React.createClass({
           <title>{title}</title>
           <style dangerouslySetInnerHTML={{ __html: require('!raw!foundation-sites/dist/foundation.min.css')}} />
           {prod_css}
+          {prod_tracking_js}
         </head>
         <body>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
