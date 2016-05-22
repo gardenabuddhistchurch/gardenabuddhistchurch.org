@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: About
+published: true
 ---
 
 90 years ago a few Japanese American farming families from Gardena Valley in California
@@ -17,7 +18,7 @@ to join us in learning the Dharma and sharing in our community.
 Services are held regularly every Sunday in the Hondo (Main Hall)
 
 - 9:30am: Family Service (for Children and adults)
-- 10:00-11:00am (or following Family Service): Separate Adult Services in English and Japanese
+- 10:00-11:00am (or when Family Service ends): Separate Adult Services in English and Japanese
 
 ### Special Services
 Special services are held on religious holidays such as Buddha Day, Bodhi Day,
@@ -31,4 +32,3 @@ A perpetual memorial service is held on the 1st Saturday of each month.
 Everyone is always welcome to attend services, but if you would like to join the temple as a member
 then please fill out the [Membership Application](/documents/2015/2015-GBC-membership.pdf)
 And mail it with payment to 1517 W 166th St., Gardena, CA, 90247 with Attn: Membership
-
