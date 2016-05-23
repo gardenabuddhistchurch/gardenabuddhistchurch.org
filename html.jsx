@@ -11,7 +11,7 @@ module.exports = React.createClass({
   },
   render () {
     const lang = this.props.lang || 'en-us';
-    const title = this.props.title || DocumentTitle.rewind();
+    const title = DocumentTitle.rewind();
     let prod_css;
     let prod_tracking_js;
     

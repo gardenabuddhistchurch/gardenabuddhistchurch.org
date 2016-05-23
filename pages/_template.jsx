@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
+import DocumentTitle from 'react-document-title';
 import { prefixLink } from 'gatsby-helpers';
 import { config } from 'config'
 
@@ -12,6 +13,7 @@ module.exports = React.createClass({
     };
   },
   render () {
+    const title = config.siteTitle;
     const { location, children } = this.props;
     let heroImage;
     if (location.pathname === prefixLink('/')) {
@@ -20,7 +22,8 @@ module.exports = React.createClass({
       );
     }
     return (
-<div className="container">
+<DocumentTitle title={title}>
+<div>
   <div className="nav">
       <div className="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
         <button className="menu-icon" type="button" data-toggle></button>
@@ -31,7 +34,7 @@ module.exports = React.createClass({
         <div className="top-bar-left">
           <ul className="dropdown vertical medium-horizontal menu" data-dropdown-menu>
             <li className="menu-text">
-              <Link to={'/'}>{config.siteTitle}</Link>
+              <Link to={'/'}>GBC</Link>
             </li>
             <li><Link to={'/calendar/'}>Calendar</Link></li>
             <li><Link to={'/about/'}>About</Link></li>
@@ -56,6 +59,7 @@ module.exports = React.createClass({
     </p>
   </div>
 </div>
+</DocumentTitle>
     );
   }
 });
