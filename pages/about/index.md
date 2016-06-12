@@ -21,7 +21,7 @@ Gardena Buddhist Church is a Jodo Shinshu Buddhist temple serving southern Calif
     - third Tuesday 6:00pm Buddhist study class (English)
     - fourth Friday 9:45am Buddhist discussion (Japanese)
 
-*please check [calendar](/calendar/) to confirm exact dates and times*
+*please check [calendar](/calendar/) to confirm exact dates and times.  For questions, email info@gardenabuddhistchurch.org*
 
 ***
 
