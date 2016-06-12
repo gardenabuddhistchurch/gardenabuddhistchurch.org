@@ -4,7 +4,7 @@ published: true
 ---
 
 90 years ago a few Japanese American farming families from Gardena Valley in California
-founded the Gardena Buddhist Church. In the years since, the Sangha has grown
+founded the Gardena Buddhist Church. In the 90 years since, the Sangha has grown
 to over 500 families. Today, technology has enabled us to share with you the
 activities, thoughts and history of our Sangha as we spread the Nembutsu beyond
 our traditional geographical boundaries. We hope you enjoy what we have to
