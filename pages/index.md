@@ -1,15 +1,5 @@
 ## Welcome to Gardena Buddhist Church
 
-# Join us for our 2016 Obon Festival!
-
-- Saturday, Aug 13, 2016 3pm - 10pm
-    - dancing starts 6pm
-    - temple Hondo tours 3pm, 5pm, 7pm
-- Sunday, Aug 14, 2016 3pm - 9pm
-    - dancing starts 6pm
-    - temple Hondo tours 3pm, 5pm, 7pm
-- Food, Dancing, Games, and more!
-
 
 # Gardena Buddhist Church
 
