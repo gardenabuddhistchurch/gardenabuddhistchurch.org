@@ -16,7 +16,7 @@ Gardena Buddhist Church is a Jodo Shinshu Buddhist temple serving southern Calif
     - 9:00am chanting and messages (English and Japanese)
 - Monthly services / events
     - first Saturday 7:30pm Shotsuki memorial service - remembering those who passed away that month (English and Japanese)
-    - first Tuesday 7:00pm Buddhist discussion (English)
+    - first Thursday 7:00pm Buddhist discussion (English)
     - 16th of every month (except Sunday) 7:00am founder's monthly memorial service (English and Japanese)
     - third Tuesday 6:00pm Buddhist study class (English)
     - fourth Friday 9:45am Buddhist discussion (Japanese)
