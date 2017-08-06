@@ -1,5 +1,14 @@
 ## Welcome to Gardena Buddhist Church
 
+# Join us for the 2017 Obon Festival!
+
+- Saturday, August 12, 2017 3pm - 10pm
+  * Dancing Starts at 6pm
+- Sunday, August 13, 2017 3pm-9pm
+  * Dancing Starts at 6pm
+- Food, Dancing, Games, and more!
+  * Last and biggest obon of the summer!
+
 
 # Gardena Buddhist Church
 
